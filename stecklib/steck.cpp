@@ -1,3 +1,3 @@
 #include <math.h>
 
-#include "Steck.h"
+#include "steck.h"
