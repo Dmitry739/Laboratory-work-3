@@ -1,8 +1,8 @@
 #include <iostream>
-#include "Queue.h"
-#include "Steck.h"
+#include "queue.h"
+#include "steck.h"
 
-int main()
+int Main()
 {
   return 0;
 }
